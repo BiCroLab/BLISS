@@ -1,0 +1,6 @@
+#!/bin/usr/env bash
+
+bash /home/garner1/Work/pipelines/BLISS/bin/bliss.sh RM212 human /home/garner1/Work/pipelines/BLISS/patterns/RM212_W7.1_ATTCGCGA 30 /media/garner1/hdd1/NeuroBLISS/fastq
+mkdir -p /media/garner1/hdd1/RM212/outdata_ATTCGCGA
+mv /media/garner1/hdd1/RM212/outdata/* /media/garner1/hdd1/RM212/outdata_ATTCGCGA
+
