@@ -1,4 +1,4 @@
-# bliss
+# BLISS
 Repo for bliss pipeline
 
 bash ./bin/bliss.sh expName human ./patterns/patfile-name MapQuality /home/garner1/Work/dataset
